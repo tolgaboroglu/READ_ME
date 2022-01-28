@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TOLGA BOROGLU</h1>
 <h3 align="center">I am learning Data Science</h3>
 
-My name is Tolga Boroğlu,I am 23 years old.I am living in Mersin/Tarsus. I am a 3nd year student at Adana Science and Technology University.My department is Management Information Systems.I speak English as a foreign language .Usually,I am interested in data science and I am learning data science.
+My name is Tolga Boroğlu,I am 24 years old.I am living in Mersin/Tarsus. I am a 3nd year student at Adana Science and Technology University.My department is Management Information Systems.I speak English as a foreign language .Usually,I am interested in data science and I am learning data science.
 
 - 👨‍💻 All of my projects are available at [https://github.com/tolgaboroglu](https://github.com/tolgaboroglu)
 
